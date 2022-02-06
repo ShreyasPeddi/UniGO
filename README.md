@@ -1,2 +1,2 @@
 # UniGO
-UniGO allows user to create a new profile to login in back after the application is restarted. This application stores user data (name, location, login information) and it has an interactive dashboard with panels to access the unique features of this application.
+UniGO is an application for built for high school students in Canada applying to universities. This application provides a wide variety of functionality to help choose the university program they are interested in. This app implements the MAPS static API and Geocoding API to display universities within a radius of the user's home address.
